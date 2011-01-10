@@ -3,3 +3,5 @@ tests/obj
 *.user
 *.cache
 *.suo
+UpgradeLog*.XML
+_UpgradeReport_Files/
