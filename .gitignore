@@ -1,7 +1,9 @@
-tests/bin
-tests/obj
+bin/
+obj/
 *.user
 *.cache
 *.suo
 UpgradeLog*.XML
 _UpgradeReport_Files/
+*~
+SQLite.Tests.dll

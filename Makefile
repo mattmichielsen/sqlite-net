@@ -38,3 +38,6 @@ dist:
 	rm -Rf $(DIST)/.DS_Store
 	zip -9 -r $(DIST).zip $(DIST)
 	rm -Rf $(DIST)
+	
+msbuild:
+	msbuild /p:Configuration=Release

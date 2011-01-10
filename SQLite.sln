@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLite.Tests", "tests\SQLite.Tests.csproj", "{6947A8F1-99BE-4DD1-AD4D-D89425CE67A2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLite-net", "SQLite-net\SQLite-net.csproj", "{78852158-5941-4998-91DB-6A834F2DE7D1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{6947A8F1-99BE-4DD1-AD4D-D89425CE67A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6947A8F1-99BE-4DD1-AD4D-D89425CE67A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6947A8F1-99BE-4DD1-AD4D-D89425CE67A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78852158-5941-4998-91DB-6A834F2DE7D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78852158-5941-4998-91DB-6A834F2DE7D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78852158-5941-4998-91DB-6A834F2DE7D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78852158-5941-4998-91DB-6A834F2DE7D1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
